@@ -3,3 +3,5 @@ def reverse_each_word(string)
   
   puts array
 end
+
+reverse_each_word("What the fuck")
